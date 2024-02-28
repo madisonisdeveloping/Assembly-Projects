@@ -1,4 +1,4 @@
-########## lab2 ################
+########## Age & Birth Year Display Program ################
 # Author: Madison
 # Description: This program prompts the user for their age and birth year, then displays their age and year based on the input.
 # Initial Algorithm:
