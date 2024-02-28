@@ -1,4 +1,4 @@
-########## lab3 ################
+########## Integer Adder ################
 # Author: Madison
 # Description: This program adds together two integers.
 # Initial Algorithm:
@@ -8,8 +8,7 @@
 #   4. Read the second integer from the user.
 #   5. Add the first and second integers.
 #   6. Display the sum of the two integers.
-#   7. Display the author's name, date, and favorite number.
-#   8. Terminate the program.
+#   7. Terminate the program.
 # Data Requirements
 # Input Variables: Two integers
 # Output Variables: Sum of the two integers.
@@ -24,8 +23,7 @@
 # 6. Display the second integer.
 # 7. Display "="
 # 8. Display the sum.
-# 9. Display the author's name, date, and favorite number.
-# 10. Exit the program.
+# 9. Exit the program.
 ####################################
         .text
         .globl main
