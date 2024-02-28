@@ -1,4 +1,4 @@
-########## lab5 ################
+########## Integer Comparator ################
 # Author: Madison
 # Description: This program takes two integers as input from the user and determines the smallest of the two.
 # Initial Algorithm:
