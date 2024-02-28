@@ -1,4 +1,4 @@
-########## lab6 ################
+########## OddEven Identifier ################
 # Author: Madison
 # Description: Determines if an input integer is odd or even. The program displays a prompt for the user to enter an integer,
 # determines if the input integer is odd or even, and prints a corresponding message. It also includes a signature message at the end.
