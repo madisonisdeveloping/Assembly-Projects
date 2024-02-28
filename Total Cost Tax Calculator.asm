@@ -1,4 +1,4 @@
-########## lab4 ################
+########## TotalCostTaxCalculator ################
 # Author: Madison
 # Description: This program calculates the sales tax and total cost of an item based on the user input for the item cost. It then displays the calculated sales tax, and total cost.
 # Initial Algorithm:
@@ -10,8 +10,7 @@
 # 6. Print the sales tax
 # 7. Display the message indicating the total cost of the item
 # 8. Print the total cost
-# 9. Display the name, date, and favorite number message
-# 10. Exit the program
+# 9. Exit the program
 # Data Requirements
 # Input Variables: Float representing the cost of an item
 # Output Variables: Float representing the sales tax, float representing the total cost of the item
@@ -30,8 +29,7 @@
 # 6. Print the sales tax (stored in $f2)
 # 7. Display the message indicating the total cost of the item
 # 8. Print the total cost (stored in $f10)
-# 9. Display the name, date, and favorite number message
-# 10. Exit the program
+# 9. Exit the program
 ####################################
 
         .text
