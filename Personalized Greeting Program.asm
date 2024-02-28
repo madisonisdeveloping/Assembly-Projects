@@ -1,4 +1,4 @@
-########## lab1 ################
+########## Personalized Greeting Program ################
 # Author: Madison
 # Description: This program prompts the user to enter their name and then greets them with a welcome message.
 # Initial Algorithm:
@@ -58,5 +58,4 @@ output: .asciiz "Hello, "		#output "Hello" message
 ######## Output #####################
 #What is your name? Madi	    #
 #Hello, Madi		            #
-#
 #####################################
